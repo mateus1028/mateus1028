@@ -4,7 +4,7 @@
 <p>💻 Atualmente estou buscando emprego na área de Analise de Suporte Técnico de TI </p>
 <p>🎓 Tecnólogo em desenvolvimento de sistemas – Centro Universitário Católico Salesiano Auxilium </p>
 <p>🎓 Técnico em Manutençao de Hardware e Redes</p> 
-<p>🚀 Habilidades: HTML5, CSS3, JavaScript, C#, Banco de dados SQL Server, Banco de dados MySQL.</p>
+<p>🚀 Habilidades: Manutenção de Computadores, Windows Server, Excel, HTML5, CSS3, JavaScript, C#, Banco de dados SQL Server, Banco de dados MySQL.</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-batalha-4711b4171/:" alt="Linkedin">
